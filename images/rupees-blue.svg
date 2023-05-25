@@ -1,0 +1,8 @@
+<svg id="rupees_blue" data-name="rupees blue" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_23" data-name="Rectangle 23" width="32" height="32" fill="none"/>
+  <g id="rupee" transform="translate(2.37 2.37)">
+    <path id="Path_3" data-name="Path 3" d="M98.866,90a8.866,8.866,0,1,0,8.866,8.866A8.876,8.876,0,0,0,98.866,90Z" transform="translate(-85.259 -85.259)" fill="#0944f5"/>
+    <path id="Path_4" data-name="Path 4" d="M13.673,0A13.673,13.673,0,1,0,27.346,13.673,13.666,13.666,0,0,0,13.673,0Zm0,24.142A10.468,10.468,0,1,1,24.142,13.673,10.48,10.48,0,0,1,13.673,24.142Z" transform="translate(0 0)" fill="#0944f5"/>
+    <text id="R" transform="translate(9.63 17.63)" fill="#fff" font-size="12" font-family="CircularStd-Black, Circular Std Black" font-weight="800"><tspan x="0" y="0">R</tspan></text>
+  </g>
+</svg>
